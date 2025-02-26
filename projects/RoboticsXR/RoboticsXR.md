@@ -14,7 +14,7 @@ Virtual Environments and Extended Reality (XR) have transformed artificial intel
 
 # Video
 
-<video width="640" height="360" controls>
+<video width="100%" height="auto" controls>
   <source src="./media/RoboticsXRIROS.mp4" type="video/mp4">
 </video>
 
