@@ -2,11 +2,11 @@
 
 ## Authors
 
-- Petre Ricioppo
-- Riccardo Enrico
-- Jean-Luc Sarvadon
-- Dario Ruggiero
-- Elisa Capello
+- [Petre Ricioppo](https://www.polito.it/personale?p=petre.ricioppo)
+- [Riccardo Enrico](https://www.polito.it/personale?p=riccardo.enrico)
+- [Jean-Luc Sarvadon](https://www.polito.it/personale?p=jeanluc.sarvadon)
+- [Dario Ruggiero](https://www.polito.it/personale?p=dario.ruggiero)
+- [Elisa Capello](https://www.polito.it/personale?p=elisa.capello)
 
 ## Abstract
 
