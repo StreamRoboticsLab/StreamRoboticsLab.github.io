@@ -9,7 +9,7 @@ layout: default
   <a href="https://www.polito.it/personale?p=petre.ricioppo">Petre Ricioppo</a>, 
   <a href="https://www.polito.it/personale?p=riccardo.enrico">Riccardo Enrico</a>, 
   <a href="https://www.polito.it/personale?p=jeanluc.sarvadon">Jean-Luc Sarvadon</a>, 
-  <a href="https://www.polito.it/personale?p=dario.ruggiero">Dario Ruggiero</a>, and 
+  <a href="https://www.polito.it/personale?p=dario.ruggiero">Dario Ruggiero</a> and 
   <a href="https://www.polito.it/personale?p=elisa.capello">Elisa Capello</a>
 
   <br><br>
@@ -18,7 +18,7 @@ layout: default
   <div style="text-align: center; font-size: 0.9em;">
     <strong>Affiliations:</strong>
     <br>
-    All authors are affiliated with <em>Stream Robotics Lab, Politecnico di Torino</em>.
+    All authors are affiliated with <em>Politecnico di Torino, Turin, Italy</em>.
   </div>
 </div>
 
@@ -38,8 +38,4 @@ layout: default
 
 <div style="text-align: justify;">
 RoboticsXR is an extended reality framework that fuses real-world robot motion with synthetic visual data. It uses ROS2 to integrate a YOLOv8-based detection system and a ResNet50 network for precise distance estimation, enabling efficient testing of visual navigation algorithms across varied hardware and lighting conditions.
-</div>
-
-<div style="position: fixed !important; bottom: 0 !important; right: 0 !important; z-index: 9999;">
-  <img src="../../media/stream_logo.png" alt="RoboticsXR Logo" style="width: 60%;">
 </div>
