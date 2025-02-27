@@ -11,6 +11,9 @@ layout: default
   <a href="https://www.polito.it/personale?p=jeanluc.sarvadon">Jean-Luc Sarvadon</a>, 
   <a href="https://www.polito.it/personale?p=dario.ruggiero">Dario Ruggiero</a>, and 
   <a href="https://www.polito.it/personale?p=elisa.capello">Elisa Capello</a>
+
+  <img src="../../media/stream_logo.png" alt="" width="60%">
+
 </div>
 
 ## Abstract
