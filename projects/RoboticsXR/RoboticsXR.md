@@ -1,4 +1,7 @@
-# RoboticsXR: Extended Reality for Robotics Visual Navigation
+---
+title: "RoboticsXR: Extended Reality for Robotics Visual Navigation"
+layout: default
+---
 
 ## Authors
 
