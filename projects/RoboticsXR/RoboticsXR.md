@@ -5,7 +5,13 @@ layout: default
 
 ## Authors
 
-[Petre Ricioppo](https://www.polito.it/personale?p=petre.ricioppo), [Riccardo Enrico](https://www.polito.it/personale?p=riccardo.enrico), [Jean-Luc Sarvadon](https://www.polito.it/personale?p=jeanluc.sarvadon), [Dario Ruggiero](https://www.polito.it/personale?p=dario.ruggiero) and [Elisa Capello](https://www.polito.it/personale?p=elisa.capello)
+<div style="text-align: center;">
+  <a href="https://www.polito.it/personale?p=petre.ricioppo">Petre Ricioppo</a>, 
+  <a href="https://www.polito.it/personale?p=riccardo.enrico">Riccardo Enrico</a>, 
+  <a href="https://www.polito.it/personale?p=jeanluc.sarvadon">Jean-Luc Sarvadon</a>, 
+  <a href="https://www.polito.it/personale?p=dario.ruggiero">Dario Ruggiero</a>, and 
+  <a href="https://www.polito.it/personale?p=elisa.capello">Elisa Capello</a>
+</div>
 
 ## Abstract
 
